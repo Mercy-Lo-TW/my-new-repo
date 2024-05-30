@@ -1,0 +1,362 @@
+[
+    {
+        "domain": "ubereats.com",
+        "expires": 1735097721944.271,
+        "name": "dId",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "a87451ee-86cc-4454-8955-50477dc5334f"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1748317872790.513,
+        "name": "marketing_vistor_id",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "84ea880d-faba-4457-bf28-1b488a0b9bcf"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1735184123630.414,
+        "name": "uev2.gg",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "true"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1724557857000,
+        "name": "CONSENTMGR",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1703561723605%7Cconsent:true"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1724557857000,
+        "name": "_fbp",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "fb.1.1703561723735.1767376620"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1735184123000,
+        "name": "_yjsu_yjad",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "1703561723.cfa8f439-8791-4c19-bca1-e6ac63f66624"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1737748422000,
+        "name": "_scid",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "64e86f71-dc08-48c7-a217-bcb60d83c0ae"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1737257776000,
+        "name": "_tt_enable_cookie",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1737257776000,
+        "name": "_ttp",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "6-Ekb5kxMn7iFicSD0VP1bdBGD1"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1719288895000,
+        "name": "_gcl_au",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "1.1.1498242970.1711512895"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1748335253839.12,
+        "name": "segmentCookie",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "a"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1748317857000,
+        "name": "utag_main_segment",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "a"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1748317857000,
+        "name": "utag_main_optimizely_segment",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "b"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1745311256000,
+        "name": "_hjSessionUser_960703",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "eyJpZCI6ImJjMTFkYTE2LTRmYmEtNWE3ZC1hM2Y5LWEzOWQzNmFjYTYxMSIsImNyZWF0ZWQiOjE3MTM3NzUyNTYxMjgsImV4aXN0aW5nIjpmYWxzZX0="
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1745311257000,
+        "name": "_clck",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "1hqg0as%7C2%7Cfl5%7C0%7C1573"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1748317872790.465,
+        "name": "uev2.diningMode",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "DELIVERY"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1750446618000,
+        "name": "_sctr",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "1%7C1716220800000"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": null,
+        "name": "utm_medium",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "undefined"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": null,
+        "name": "fm_conversion_id",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "undefined"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": null,
+        "name": "utm_source",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "undefined"
+    },
+    {
+        "domain": null,
+        "expires": 1748341148000,
+        "name": "_cc",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "AUYls722Dl5KxqHThR4FVAWB"
+    },
+    {
+        "domain": null,
+        "expires": 1748341148000,
+        "name": "_cid_cc",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "AUYls722Dl5KxqHThR4FVAWB"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1716783689485.256,
+        "name": "uev2.id.session",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "4667bca5-5a81-48d4-8110-dd99ff51908b"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": null,
+        "name": "mcd_restaurant",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "鬧蟬咖啡 南京復興店"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1716868254000,
+        "name": "_gid",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "GA1.2.603269755.1716776791"
+    },
+    {
+        "domain": null,
+        "expires": null,
+        "name": "_ua",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "{\"session_id\":\"0c3b43cd-d519-4a18-8506-9c47ceabe319\",\"session_time_ms\":1716777109629}"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1748313110000,
+        "name": "mp_adec770be288b16d9008c964acfba5c2_mixpanel",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "%7B%22distinct_id%22%3A%20%2297b62f90-6a26-496a-a300-b83aec164ed2%22%2C%22%24device_id%22%3A%20%2218f04f71a00a26-0827f4ca55a68d-1c525637-1fa400-18f04f71a01170c%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22%24user_id%22%3A%20%2297b62f90-6a26-496a-a300-b83aec164ed2%22%7D"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1748317857000,
+        "name": "utag_main__sn",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "108"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1716783657000,
+        "name": "utag_main_ses_id",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "1716781806252%3Bexp-session"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1716783657000,
+        "name": "utag_main__ss",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "0%3Bexp-session"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1719373850243.949,
+        "name": "uev2.loc",
+        "partitioned": false,
+        "path": "/",
+        "secure": true,
+        "value": "%7B%22address%22%3A%7B%22address1%22%3A%22%E6%B4%B2%E9%9A%9B%E6%A3%92%E7%90%83%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%22%2C%22address2%22%3A%22No.%20833%E8%99%9F%2C%20Section%203%2C%20Chongde%20Rd%2C%20Beitun%20District%2C%20Taichung%20City%22%2C%22aptOrSuite%22%3A%22%22%2C%22eaterFormattedAddress%22%3A%22No.%20833%E8%99%9F%2C%20Section%203%2C%20Chongde%20Rd%2C%20Beitun%20District%2C%20Taichung%20City%2C%20Taiwan%20406%22%2C%22subtitle%22%3A%22No.%20833%E8%99%9F%2C%20Section%203%2C%20Chongde%20Rd%2C%20Beitun%20District%2C%20Taichung%20City%22%2C%22title%22%3A%22%E6%B4%B2%E9%9A%9B%E6%A3%92%E7%90%83%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%22%2C%22uuid%22%3A%22%22%7D%2C%22latitude%22%3A24.1987141%2C%22longitude%22%3A120.6843256%2C%22reference%22%3A%22ChIJW2yOKaIXaTQRAXfdJnofwYU%22%2C%22referenceType%22%3A%22google_places%22%2C%22type%22%3A%22google_places%22%2C%22addressComponents%22%3A%7B%22city%22%3A%22%E5%90%8C%E6%A6%AE%E9%87%8C%22%2C%22countryCode%22%3A%22TW%22%2C%22firstLevelSubdivisionCode%22%3A%22Taichung%20City%22%2C%22postalCode%22%3A%22406%22%7D%2C%22categories%22%3A%5B%22STADIUM_AND_ARENA%22%2C%22tourist_attraction%22%2C%22stadium%22%2C%22ATTRACTION%22%2C%22establishment%22%2C%22point_of_interest%22%2C%22park%22%2C%22PARK%22%5D%2C%22originType%22%3A%22user_autocomplete%22%7D"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1716783657000,
+        "name": "utag_main__pn",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "2%3Bexp-session"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1750968552000,
+        "name": "_scid_r",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "64e86f71-dc08-48c7-a217-bcb60d83c0ae"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1751341854484.746,
+        "name": "_ga",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "GA1.2.1594543292.1703561724"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": null,
+        "name": "_userUuid",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "480ef294-e392-4cfe-a38d-b8d1ea8150ee"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1716783657000,
+        "name": "utag_main__se",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "5%3Bexp-session"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1716783657000,
+        "name": "utag_main__st",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "1716783657388%3Bexp-session"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1716868260000,
+        "name": "_uetsid",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "94001ec01bce11ef884725dca3f93e78"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1750477860000,
+        "name": "_uetvid",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "cd7af350a39f11eeb92e7d4eb81af61b"
+    },
+    {
+        "domain": "ubereats.com",
+        "expires": 1751341861772.075,
+        "name": "_ga_P1RM71MPFP",
+        "partitioned": false,
+        "path": "/",
+        "secure": false,
+        "value": "GS1.1.1716781804.110.1.1716781861.3.0.0"
+    }
+]
