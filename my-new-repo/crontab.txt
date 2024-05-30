@@ -1,0 +1,18 @@
+# Use the correct timezone
+TZ=Asia/Taipei
+
+# UE_scraper [:10] 每個小時的3分執行一次
+#3 * * * * /home/ubuntu/myenv/bin/python /home/ubuntu/Documents/ue_scraper_10.py >> /home/ubuntu/Documents/ue_scraper_10.log 2>&1
+
+# UE_scraper [10:20] 每個小時的5分執行一次
+#5 * * * * /home/ubuntu/myenv/bin/python /home/ubuntu/Documents/ue_scraper_20.py >> /home/ubuntu/Documents/ue_scraper_20.log 2>&1
+
+# UE_scraper [20:30] 每個小時的7分執行一次
+#7 * * * * /home/ubuntu/myenv/bin/python /home/ubuntu/Documents/ue_scraper_30.py >> /home/ubuntu/Documents/ue_scraper_30.log 2>&1
+
+# UE_scraper [30:40] 每個小時的9分執行一次
+#9 * * * * /home/ubuntu/myenv/bin/python /home/ubuntu/Documents/ue_scraper_40.py >> /home/ubuntu/Documents/ue_scraper_40.log 2>&1
+
+# 每小時的10分鐘，會執行hello world! 
+10 * * * * echo "$(date '+%Y-%m-%d %H:%M') Hello, World!" >> /home/ubuntu/log/hello.log 2>&1
+
